@@ -32,7 +32,7 @@
                             <div class="card card-plain">
                                 <div class="card-header pb-0 text-start">
                                     <h4 class="font-weight-bolder">Sign In</h4>
-                                    <p class="mb-0">Silahkan masukkan password dan email anda</p>
+                                    <p class="mb-0">Silahkan Masukkan Password dan Email anda</p>
                                 </div>
                                 <div class="card-body">
                                     <form role="form" action="{{ route('login') }}" method="POST">
@@ -77,8 +77,8 @@
                                 style="background-image: url('https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-pro/assets/img/signin-ill.jpg');
           background-size: cover;">
                                 <span class="mask bg-gradient-primary opacity-6"></span>
-                                <h4 class="mt-5 text-white font-weight-bolder position-relative">"My POS"</h4>
-                                <p class="text-white position-relative">My POS (Point of Sales) adalah suatu sistem yang digunakan dalam kebutuhan berbagai macam usaha bisnis ritel untuk dapat mempermudah proses transaksi jual beli secara cepat, aman, dan sistematis.</p>
+                                {{-- <h4 class="mt-5 text-white font-weight-bolder position-relative">"My POS"</h4> --}}
+                                {{-- <p class="text-white position-relative">My POS (Point of Sales) adalah suatu sistem yang digunakan dalam kebutuhan berbagai macam usaha bisnis ritel untuk dapat mempermudah proses transaksi jual beli secara cepat, aman, dan sistematis.</p> --}}
                             </div>
                         </div>
                     </div>

@@ -39,9 +39,10 @@
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-5 text-center mx-auto">
-                        <h1 class="text-white mb-2 mt-5">Halo Pengguna!</h1>
-                        <p class="text-lead text-white">Ini adalah projek dari Praktik AAS (Asesmen Akhir Semester) SMK Wikrama 1 Garut TP 2023/2024</p>
-                    </div>
+                        <h1 class="text-white mb-2 mt-5">Hello Pengguna!</h1>
+                        <p class="text-lead text-white">𝕀𝕟𝕚 𝕒𝕕𝕒𝕝𝕒𝕙 𝔸𝕡𝕝𝕚𝕜𝕒𝕤𝕚 ℙ𝕠𝕚𝕟𝕥 𝕆𝕗 𝕊𝕒𝕝𝕖𝕤 𝕐𝕒𝕟𝕘 𝕕𝕚 𝔾𝕦𝕟𝕒𝕜𝕒𝕟 𝔸𝕣𝕪𝕒 𝕄𝕠𝕥𝕠𝕣 𝕊𝕡𝕠𝕣𝕥 
+                            𝟚𝟛𝟡</p> 
+                    </div> 
                 </div>
             </div>
         </div>
@@ -74,7 +75,7 @@
                         Copyright ©
                         <script>
                             document.write(new Date().getFullYear())
-                        </script>. Created by R.U.A.S
+                        </script>. Created by AMS 239
                     </p>
                 </div>
             </div>

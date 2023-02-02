@@ -1,4 +1,4 @@
-@extends('layouts.master')
+@extends ('layouts.master')
 
 @section('title', 'User')
 
@@ -67,10 +67,10 @@
 @push('script')
 <script>
     function uang() {
-        var x = document.getElementById('nama_barang').value;
+        var x = document.getElementById('username').value;
 
         $.ajax({
-            url: {{ route('barangs.') }}
+            url: {{ route('users.store') }}
         })
     }
 </script>
